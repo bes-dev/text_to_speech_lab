@@ -1,0 +1,8 @@
+torch
+numpy
+torchaudio
+huggingface_hub
+einops
+fairseq
+audiolm_pytorch
+encodec
